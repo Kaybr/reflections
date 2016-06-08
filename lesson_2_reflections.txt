@@ -1,0 +1,2 @@
+What happens when you inintalize a repository? Why do you need to do it?
+-- 
